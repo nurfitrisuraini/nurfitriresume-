@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>portfolio| nurfitri's resume</title>
+    <!-- TemplateEndEditable -->
+    <!-- Bootstrap -->
+    <link href="../css/bootstrap-4.4.1.css" rel="stylesheet">
+  <!-- TemplateBeginEditable name="head" -->
+  <!-- TemplateEndEditable -->
+  </head>
+	
+	<nav class="secondary_header" id="menu">
+      <ul>
+        
+        <li> HOME</li>
+        <li>RESUME</li>
+        <li>PORTFOLIO</li>
+        <li>ABOUT</li>
+      </ul>
+    </nav>
+	
+  <body>
+    <div class="container">
+      <hr>
+      <div class="row">
+        <div class="col-6">
+          <h1>NURFITRI SURAINI BT IDRIS</h1>
+        </div>
+        <div class="col-6">
+          <p class="text-right">&nbsp;</p>
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12">
+          <div class="media">
+            <div class="media-body">
+              <h5 class="mt-0">MY PORTFOLIO</h5>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-12"></div>
+      </div>
+      <hr>
+      <h2><img src="../images/5.png" width="480" height="270" alt=""/> <img src="../images/6.png" width="480" height="270" alt=""/></h2>
+		
+	  <div class="SECOND ROW"><img src="../images/7.png" width="480" height="270" alt=""/>     <img src="../images/8.png" width="480" height="270" alt=""/> 
+		</div>
+	     <hr>
+	  <div class="THIRD ROW"><img src="../images/9.png" width="480" height="270" alt=""/>       <img src="../images/10.png" width="480" height="270" alt=""/></div>
+		<hr>
+		<div><img src="../images/11.png" width="480" height="270" alt=""/>                <img src="../images/12.png" width="480" height="270" alt=""/></div>
+		<hr>
+		<div><img src="../images/13.png" width="480" height="270" alt=""/>            <img src="../images/14.png" width="480" height="270" alt=""/></div>
+		<hr>
+		<div><img src="../images/15.png" width="480" height="270" alt=""/>        <img src="../images/16.png" width="480" height="270" alt=""/></div>
+		
+		
+		
+		
+		
+<footer class="text-center">
+    <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <p>Copyright © nurfitri@site. All rights reserved.</p>
+            </div>
+          </div>
+    </div>
+      </footer>
+    </div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="../js/jquery-3.4.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../js/popper.min.js"></script>
+    <script src="../js/bootstrap-4.4.1.js"></script>
+  </body>
+</html>
